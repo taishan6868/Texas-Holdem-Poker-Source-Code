@@ -1,79 +1,4 @@
-# TexasPoker-Source-Feature|KKPoker德州扑克源码功能全介绍 | 德州源码|德州扑克源码|俱乐部/保险/链上验证/自研U币钱包,KK Poker system feature intro: Texas Hold'em / short deck / club / USDT <!-- 徽章区域 -->
-<p align="center">
-  <img src="https://img.shields.io/badge/项目状态-功能展示站-brightgreen" />
-  <img src="https://img.shields.io/badge/源码状态-通过Release获取-blue" />
-  <img src="https://img.shields.io/badge/系统类型-德州扑克俱乐部-orange" />
-  <img src="https://img.shields.io/badge/钱包-USDT自研-yellowgreen" />
-  <img src="https://img.shields.io/badge/区块链-链上验证-ff69b4" />
-  <a href="https://github.com/taishan6868/TexasPoker-Source-Feature/releases">
-    <img src="https://img.shields.io/badge/下载-Release源码-red" />
-  </a>
-</p>
-
-# 🃏 KKPoker 德州扑克系统 · 功能展示站
-
-> **本仓库性质**：功能演示与技术文档仓库。  
-> **源码获取**：请移步右侧 **Releases** 区域下载打包好的完整源码包。
-
----
-
-## 📑 目录
-- [系统架构](#系统架构)
-- [核心功能](#核心功能)
-- [技术栈](#技术栈)
-- [源码获取](#源码获取)
-- [部署与使用](#部署与使用)
-- [法律声明](#法律声明)
-
----
-
-## 🧱 系统架构
-
-graph TD
-    A[游戏客户端] --> B[游戏服务器]
-    B --> C[管理后台]
-    B --> D[USDT钱包服务器]
-    D --> E[区块链网络]
-    C --> F[玩家/房间/俱乐部管理]
-
-    
-## 📥 源码获取（重要）
-✅ 本仓库的完整源码不直接存储在代码分支中，而是通过 GitHub Releases 形式提供。
-
-获取步骤：
-
-点击页面右侧或顶部导航栏的 Releases 链接。
-
-
-✅ 如需获取完整系统（含源码 + 部署指导 + 后台 + 钱包）  
-👉 Telegram:@xuzongbin001
-
-
-## 🚀 快速部署与使用
-下载源码包后，请参考内部 deploy-guide.md 文件，典型部署流程如下：
-
-导入数据库：mysql -u root -p < database.sql
-
-启动钱包服务：cd wallet-server && ./start.sh
-
-启动游戏服务端：java -jar game-server.jar
-
-客户端配置：修改 Assets/Config/server.json 中的服务器地址
-
-管理后台部署：npm install && npm run build
-
-## ⚠️ 法律与合规声明（必须阅读）
-严肃提醒
-
-本系统及源码仅限用于技术学习、合法商业展示或已取得相关牌照的合规运营。
-
-严禁使用本系统进行任何形式的赌博、洗钱、非法集资等违法活动。
-
-使用者需自行承担因违反当地法律法规而产生的一切法律责任，源码提供者及本仓库维护者不承担任何连带责任。
-
-若你所在的地区将德州扑克线上运营定义为赌博行为，请立即停止使用。
-
-
+# TexasPoker-Source-Feature|KKPoker德州扑克源码功能全介绍 | 德州源码|德州扑克源码|俱乐部/保险/链上验证/自研U币钱包,KK Poker system feature intro: Texas Hold'em / short deck / club / USDT <!-- 
 
 
 ## 🎮 核心功能（完整清单）
@@ -171,6 +96,8 @@ graph TD
 > 搜索关键词：`KKPoker` / `德州源码` / `德州扑克源码`
 
 ---
+## 📌 产品截图
+
 
 ## ⚠️ 声明
 
