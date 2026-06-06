@@ -1,4 +1,4 @@
-# Texas Hold'em Poker Club Platform|专业级德州扑克俱乐部平台解决方案|H5德州|H5德州扑克
+# Texas Hold'em Poker Club Platform|专业级德州扑克俱乐部平台解决方案|H5德州|H5德州扑克|KKPoker德州扑克源码
 
 支持：
 
@@ -17,7 +17,7 @@
 - 棋牌游戏运营团队
 - 海外游戏平台
 - 棋牌游戏创业团队
-- # TexasPoker-Source-Feature|KKPoker德州扑克源码功能全介绍 | 德州源码|德州扑克源码|俱乐部/保险/链上验证/自研U币钱包,KK Poker system feature intro: Texas Hold'em / short deck / club / USDT <!-- 
+- # TexasPoker-Source-Feature| 德州源码|德州扑克源码|俱乐部/保险/链上验证/自研U币钱包
 
 
 ## 🎮 核心功能（完整清单）
@@ -229,7 +229,6 @@ Admin Management
 
 支持。
 
-## 是否支持联盟模式？
 
-支持。
+
 ⭐ **如果本介绍对你有帮助，欢迎 Star 收藏**
