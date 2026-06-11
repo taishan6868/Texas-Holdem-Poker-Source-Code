@@ -1,12 +1,34 @@
-# Poker Platform Documentation
+# Texas Hold'em Poker Source Code
 
-Welcome to the official documentation.
+## Professional Multiplayer Poker Platform
 
-## Sections
-- Overview
-- Architecture
-- Deployment
-- Features
+Texas Hold'em Poker Source Code is a real-time multiplayer poker platform designed for scalable online gaming operations.
 
-## Links
-- [GitHub Repository](../README.md)
+### Core Features
+
+- Texas Hold'em Poker
+- Tournament System
+- Club Management
+- Agent System
+- Social Features
+
+### Technology Stack
+
+#### Client
+
+- Unity3D
+- C#
+
+#### Server
+
+- C++
+- Redis
+- MySQL
+- MongoDB
+
+### Contact
+
+Telegram: @xuzongbin001
+
+Email: yueb29266@gmail.com
+
