@@ -1,9 +1,28 @@
-# Texas Hold'em Poker Platform
+# Texas Hold'em Poker Source Code
 
-## Overview
-A real-time multiplayer poker platform designed for scalable online gaming operations, club ecosystems, and tournament-based gameplay.
+[简体中文](README_CN.md)
 
-Built with Unity (client) and C++ (server), supporting cross-platform deployment including iOS, Android, Web, and Desktop.
+## Professional Online Poker Platform
+
+Texas Hold'em Poker Source Code is a commercial-grade multiplayer poker platform built for online gaming operators, software companies, and development teams.
+
+The project includes:
+
+- Texas Hold'em Poker
+- Tournament System
+- Club Management
+- Real-Time Multiplayer Architecture
+- Cross-Platform Deployment
+- Unity Client
+- C++ Server
+
+
+
+### Contact
+
+Telegram: @xuzongbin001
+
+Email: yueb29266@gmail.com
 
 ## Key Features
 - Real-time multiplayer poker engine
