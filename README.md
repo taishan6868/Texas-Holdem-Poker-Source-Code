@@ -39,8 +39,8 @@ Network: High-performance real-time socket architecture
 
 ## Architecture
 Client → Gateway → Game Services → Data Layer
-## 📌 产品截图
-<h2 align="center">产品截图</h2>
+## 📌  Product Demo
+<h2 align="center"> Product Demo</h2>
 
 <p align="center">
 <img src="Screencut/主界面.png" width="250">
@@ -65,7 +65,5 @@ Client → Gateway → Game Services → Data Layer
 <img src="Screencut/我的界面.png" width="250">
 <img src="Screencut/系统管理后台界面.png" width="250">
 </p>
-# Product Demo
-## Contact
-Telegram: @xuzongbin001
-Email：yueb29266@gmail.com
+
+
