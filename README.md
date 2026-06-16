@@ -1,4 +1,4 @@
-# Texas Hold'em Poker Source Code
+# Texas Hold'em Poker Source Code，H5德州，TG德州，德州源码
 
 [简体中文](README_CN.md)
 
